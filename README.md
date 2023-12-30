@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @HashirAwan
+- 👀 I’m interested in mAchine LEarning ...
+- 🌱 I’m currently a Student at UET TAXILA...
+- 📫 How to reach me awanmarketing76@gmail.com ...
+
+<!---
+HashirAwan/HashirAwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
